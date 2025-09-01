@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+my fav pics on my phone atm
 ---
 
