@@ -5,7 +5,7 @@
 <title>jasmine.exe</title>
 <style>
   body {
-    background-color: #FFFACD; /* LemonChiffon */
+    background-color: #FFFACD;
     font-family: Arial, sans-serif;
     text-align: center;
     margin: 0;
@@ -30,7 +30,7 @@
   }
 
   button {
-    background-color: #F08080; /* LightCoral */
+    background-color: #F08080;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -43,7 +43,7 @@
   }
 
   button:hover {
-    background-color: #CD5C5C; /* Darker hover */
+    background-color: #CD5C5C;
   }
 </style>
 </head>
